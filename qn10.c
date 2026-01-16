@@ -1,3 +1,4 @@
+//10. Write a program in C to separate odd and even integers in separate arrays.
 #include<stdio.h>
 int main(){
   int all[30] , odd[30] , even[30] ,temp,j = 0,k = 0 , max = 0;

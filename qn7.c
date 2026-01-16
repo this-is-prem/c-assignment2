@@ -14,6 +14,7 @@ int main(){
    int a1[50] ,a2[50],size , temp ;
    printf("enter the sizes of the array : ");
    scanf("%d",&size);
+
    printf("enter elements for the 1st array :");
    for(int i = 0  ; i < size ; i++){
    scanf("%d", &a1[i]);
